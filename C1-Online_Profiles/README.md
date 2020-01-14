@@ -5,10 +5,19 @@ For this assignment you will need to upload your resume and provide links to you
 [Online Profiles Assignment](https://education.launchcode.org/liftoff/modules/assignments/online-profiles)
 
 ## Submission Instructions
- 
+
+
+
+I came up with idea because it is a valuable app for me personally when I plan Super Smash Bros tournaments.   
+
+
+
+
+
+
 ### GitHub
 Provide a link to your GitHub account here.
- 
+ https://github.com/feremore/
 ### LinkedIn
 Provide a link to your LinkedIn account here.
 
